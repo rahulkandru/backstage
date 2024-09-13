@@ -1,0 +1,4 @@
+site_name: 'cbs-acme'
+
+nav:
+  - Home: index.md
