@@ -5,8 +5,10 @@ metadata:
   name: tech-docs
   title: tech-docs
   description: testing tech-docs
-  annotations:
-    backstage.io/techdocs-ref: dir:.
+  annotations
+    nomad.io/namespace: devops
+    nomad.io/job-id: backstage
+    nomad.io/group: 'backstage'
 spec:
   type: library
   lifecycle: production
