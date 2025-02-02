@@ -12,5 +12,5 @@ metadata:
 spec:
   type: library
   lifecycle: production
-  owner: group:test
+  owner: guest
   system: devops
